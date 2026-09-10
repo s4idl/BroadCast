@@ -39,8 +39,8 @@ Como parte de los requerimientos específicos de nuestro equipo, el servidor inc
 
 ## 👥 Equipo de Trabajo
 *   **Said López Jr** 
-*   **Ethan José Carbajal Guzmán** - 
-*   **Jonathan Alejandro Flores Gómez** - 
+*   **Ethan José Carbajal Guzmán** 
+*   **Jonathan Alejandro Flores Gómez** 
 
 ---
 *Este proyecto documenta nuestro proceso real, arquitectura y resolución de problemas de cara a la evaluación y presentación en vivo de la Sesión 09.*
